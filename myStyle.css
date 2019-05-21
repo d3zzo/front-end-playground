@@ -4,37 +4,19 @@
 
 .leftPanel {
     max-width: 100%;
-    /* max-height: 100vh; */
-    /* max-height: 100vh; */
-    /* object-fit: contain;
-    background-size: cover; */
-    /* max-width: 100%; */
-    /* background-size: cover; */
 }
 .rightPanelImage {
     max-width: 100%;
     max-height: 100%;
-     /* width: auto;  */
-     /* height: auto;  */
-    /* margin:auto;
-    display: block; */
      
 }
 .imageContainer {
-    /* max-width: 100%; */
-    /* max-height: 50%; */
         max-width: 50vh;
         max-height: 50vh;
         background: #444;
         margin: 0 auto;
 }
 
-/* html {
-    background: url(images/975999.png) no-repeat center center fixed;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;
-  } */
 
   .backgroundImage { 
     background: url(images/testImg.jpg) no-repeat center center fixed; 
