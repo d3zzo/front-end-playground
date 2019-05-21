@@ -5,18 +5,11 @@
 .leftPanel {
     max-width: 100%;
 }
+
 .rightPanelImage {
     max-width: 100%;
-    max-height: 100%;
-     
+    /* max-height: 100%; */
 }
-.imageContainer {
-        max-width: 50vh;
-        max-height: 50vh;
-        background: #444;
-        margin: 0 auto;
-}
-
 
   .backgroundImage { 
     background: url(images/testImg.jpg) no-repeat center center fixed; 
