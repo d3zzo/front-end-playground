@@ -2,19 +2,18 @@
     border: solid 2px red;
 }
 
-.leftPanel {
-    max-width: 100%;
-}
-
 .rightPanelImage {
     max-width: 100%;
     /* max-height: 100%; */
 }
-
   .backgroundImage { 
     background: url(images/testImg.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+  }
+
+  .wholeViewPort {
+    height: 100vh;
   }
